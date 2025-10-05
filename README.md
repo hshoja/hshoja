@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**hshoja/hshoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a Senior Full-Stack Developer with over 10 years of experience building scalable web applications and leading development teams
 
-Here are some ideas to get you started:
+🔭 I'm currently working as a Senior Developer at Corsearch in Amsterdam, focusing on FE/BE features and performance optimization while exploring AI technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤯 I specialize in React, TypeScript, Node.js, Python, and cloud technologies, with a passion for clean architecture and team mentorship
+
+## 🤝 Let's Connect!
+
+I'm always interested in discussing and collaborating on interesting projects, or just having a chat about technology!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hash01/)
+- 🐦 [Twitter](https://x.com/hashcode01)
